@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b73e6e14.css",
+    "main.css": "/static/css/main.010c1812.css",
     "main.js": "/static/js/main.8fc7f0c4.js",
     "static/media/saint-gilles.png": "/static/media/saint-gilles.bf8c3ae5bff22c44673b.png",
     "static/media/restaurant.jpg": "/static/media/restaurant.b21dd183e501fcbf25d2.jpg",
@@ -9,11 +9,11 @@
     "static/media/arrow.svg": "/static/media/arrow.bef0492fe140097e90321c2495a91314.svg",
     "index.html": "/index.html",
     "static/media/logo.svg": "/static/media/logo.ff6aa02f4d2fe1c726482d3a32f2bdae.svg",
-    "main.b73e6e14.css.map": "/static/css/main.b73e6e14.css.map",
+    "main.010c1812.css.map": "/static/css/main.010c1812.css.map",
     "main.8fc7f0c4.js.map": "/static/js/main.8fc7f0c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.b73e6e14.css",
+    "static/css/main.010c1812.css",
     "static/js/main.8fc7f0c4.js"
   ]
 }
