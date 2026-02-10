@@ -1,6 +1,6 @@
 {
   "name": "lfoussat.github.io",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
@@ -41,5 +41,5 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://lfoussat.github.io/l-e-r-4ever/"
+  "homepage": "https://lfoussat.github.io/"
 }
