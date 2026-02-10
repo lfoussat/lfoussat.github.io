@@ -1,0 +1,225 @@
+.App {
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: "Parisienne", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.parisienne {
+  font-family: "Parisienne", cursive;
+  font-style: normal;
+}
+
+p, a {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 1.3rem;
+}
+
+a { 
+  color: #FFFFE8;
+  text-decoration: none;
+  font-weight: bold;
+}
+.bold {
+  font-weight: bold;
+} 
+
+.underline {
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #FFB2E6;
+}
+
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.flexRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.w100p {
+  width: 100%;
+}
+.w50p {
+  width: 50%;
+}
+.wthird {
+  width: calc(100% / 3)
+}
+
+.p50px {
+  padding: 50px;
+}
+
+.festivities {
+  background-image: 
+  linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), 
+  url("chassagne.jpg");
+}
+.restaurant {
+  background-image: 
+  linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), 
+  url("restaurant.jpg");
+}
+.cover {
+  background-color: #FFB2E6;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.stgilles {
+  background-image: 
+    /*linear-gradient(
+      rgba(0, 0, 0, 0.1),
+      rgba(0, 0, 0, 0.1)
+    ),*/
+    url("saint-gilles.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+
+.ceremony {
+  background-color: #D972FF;
+  color: #8447FF;
+}
+
+.arrow {
+  position: absolute;
+  left: 75px;
+}
+
+.bgPurple {
+  background-color: #8447FF ;
+}
+.bgMauve {
+  background-color: #D972FF;
+}
+.bgGreen {
+  background-color: #8CFFDA;
+}
+.bgBeige {
+  background-color: #FFFFE8;
+}
+
+.purple {
+  color: #8447FF ;
+}
+.mauve {
+  color: #D972FF;
+}
+.green {
+  color: #8CFFDA;
+}
+.beige {
+  color: #FFFFE8;
+}
+.rose {
+  color: #FFB2E6;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: heart-spin infinite 3s cubic-bezier(0.41, -0.29, 0.52, 1.44);
+  }
+}
+
+/*rose FFB2E6*/
+/*mauve D972FF*/
+/*purple 8447FF*/
+/*vert 8CFFDA*/
+/*beige FFFFE8*/
+
+.App-header {
+  width: 100vw;
+  height: 100vh;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #FFFFE8;
+}
+
+.photo-intro {
+  width: 50%;
+  height: 100%;
+  background-image: url("photo-mariage-clem.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.intro {
+  background-color: #FFFFE8;
+  color: #D972FF;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  /*text-align: center;*/
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.infos {
+  background-color: #8447FF;
+  padding: 50px;
+}
+
+.App-link {
+  color: #8447FF;
+}
+
+@keyframes heart-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .flexColumn_s {
+    display: flex;
+    flex-direction: column;
+  }
+  .w100p_s {
+    width: 100%;
+  }
+  .festivities {
+    width: 100%;
+  }
+  .restaurant {
+    width: 100%;
+  }
+  .arrow_s {
+    left: 10px;
+    height: 50%;
+    width: 30%;
+  }
+}
