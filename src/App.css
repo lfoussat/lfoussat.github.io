@@ -22,7 +22,7 @@ p, a {
 
 a { 
   color: #FFFFE8;
-  text-decoration: none;
+  /*text-decoration: none;*/
   font-weight: bold;
 }
 .bold {
