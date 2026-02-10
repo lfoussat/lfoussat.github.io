@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/l-e-r-4ever/static/css/main.93b8b0dd.css",
-    "main.js": "/l-e-r-4ever/static/js/main.e7763e11.js",
-    "static/media/saint-gilles.png": "/l-e-r-4ever/static/media/saint-gilles.bf8c3ae5bff22c44673b.png",
-    "static/media/restaurant.jpg": "/l-e-r-4ever/static/media/restaurant.b21dd183e501fcbf25d2.jpg",
-    "static/media/photo-mariage-clem.JPG": "/l-e-r-4ever/static/media/photo-mariage-clem.21d6de2c7b6ae0313d0b.JPG",
-    "static/media/chassagne.jpg": "/l-e-r-4ever/static/media/chassagne.891dffddf4a5c57bc008.jpg",
-    "static/media/arrow.svg": "/l-e-r-4ever/static/media/arrow.bef0492fe140097e90321c2495a91314.svg",
-    "index.html": "/l-e-r-4ever/index.html",
-    "static/media/logo.svg": "/l-e-r-4ever/static/media/logo.ff6aa02f4d2fe1c726482d3a32f2bdae.svg",
-    "main.93b8b0dd.css.map": "/l-e-r-4ever/static/css/main.93b8b0dd.css.map",
-    "main.e7763e11.js.map": "/l-e-r-4ever/static/js/main.e7763e11.js.map"
+    "main.css": "/static/css/main.b73e6e14.css",
+    "main.js": "/static/js/main.8fc7f0c4.js",
+    "static/media/saint-gilles.png": "/static/media/saint-gilles.bf8c3ae5bff22c44673b.png",
+    "static/media/restaurant.jpg": "/static/media/restaurant.b21dd183e501fcbf25d2.jpg",
+    "static/media/photo-mariage-clem.JPG": "/static/media/photo-mariage-clem.21d6de2c7b6ae0313d0b.JPG",
+    "static/media/chassagne.jpg": "/static/media/chassagne.891dffddf4a5c57bc008.jpg",
+    "static/media/arrow.svg": "/static/media/arrow.bef0492fe140097e90321c2495a91314.svg",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.ff6aa02f4d2fe1c726482d3a32f2bdae.svg",
+    "main.b73e6e14.css.map": "/static/css/main.b73e6e14.css.map",
+    "main.8fc7f0c4.js.map": "/static/js/main.8fc7f0c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.93b8b0dd.css",
-    "static/js/main.e7763e11.js"
+    "static/css/main.b73e6e14.css",
+    "static/js/main.8fc7f0c4.js"
   ]
 }
